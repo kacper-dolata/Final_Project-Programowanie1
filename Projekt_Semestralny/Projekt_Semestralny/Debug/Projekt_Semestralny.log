@@ -1,0 +1,10 @@
+﻿  klasy.cpp
+c:\users\kacper\desktop\studia\semestr 2\programowanie 2\projekt semestralny\projekt_semestralny\projekt_semestralny\klasy.h(43): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+c:\users\kacper\desktop\studia\semestr 2\programowanie 2\projekt semestralny\projekt_semestralny\projekt_semestralny\klasy.cpp(64): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacper\desktop\studia\semestr 2\programowanie 2\projekt semestralny\projekt_semestralny\projekt_semestralny\klasy.cpp(268): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacper\desktop\studia\semestr 2\programowanie 2\projekt semestralny\projekt_semestralny\projekt_semestralny\klasy.cpp(286): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacper\desktop\studia\semestr 2\programowanie 2\projekt semestralny\projekt_semestralny\projekt_semestralny\klasy.cpp(305): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacper\desktop\studia\semestr 2\programowanie 2\projekt semestralny\projekt_semestralny\projekt_semestralny\klasy.cpp(320): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacper\desktop\studia\semestr 2\programowanie 2\projekt semestralny\projekt_semestralny\projekt_semestralny\klasy.cpp(336): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kacper\desktop\studia\semestr 2\programowanie 2\projekt semestralny\projekt_semestralny\projekt_semestralny\klasy.cpp(376): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Projekt_Semestralny.vcxproj -> C:\Users\Kacper\Desktop\studia\semestr 2\programowanie 2\projekt semestralny\Projekt_Semestralny\Debug\Projekt_Semestralny.exe
